@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "abc",
+      "age": "19",
+      "course": "cse"
+    },
+    {
+      "id": "2",
+      "name": "def",
+      "age": "20",
+      "course": "cse"
+    },
+    {
+      "id": "3",
+      "name": "ghi",
+      "age": "19",
+      "course": "aiml"
+    },
+    {
+      "id": "4",
+      "name": "kjl",
+      "age": "21",
+      "course": "ece"
+    }
+  ]
+}

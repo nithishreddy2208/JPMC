@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "poppins";
+}
+body {
+    padding: 20px;
+    text-align: center;
+}
+h2 {
+    margin: 10px;
+    font-size: 25px;
+    color: red;
+}
+.student-form input {
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
+table {
+    margin: 10px auto;
+}
+th, td {
+    padding: 10px 20px;
+    width: 180px;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+thead {
+    background-color:yellow;
+    color: green;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+table, th,td{
+    border: 2px solid black;
+    border-collapse:unset;
+}
+button{
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: cyan;
+    cursor: pointer;
+}
+button:hover{
+    background-color: gold;
+}
+#buttons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* gap: 20px; */
+}
+#add{
+    margin: 0 auto;
+    background-color: cyan;
+    padding: 10px;
+}
+#add:hover{
+    background-color: gold;
+}
+
+ 
